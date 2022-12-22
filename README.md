@@ -33,3 +33,10 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+<div align=center><h1>🌟 Status 🌟</h1>
+
+<div style="display: flex;">
+  <img src='https://github-readme-stats.vercel.app/api?username=yhyem&show_icons=true&theme=radical' style="width: 420px;"/>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hm0120' />
+</div>
+
