@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=black"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"> 
   <br>
+  
+  <a href="https://verbose-track-580.notion.site/Computer-Engineering-with-YHM-f9501b16f1cc46e6a688c66d66a0058f">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
 </div>
 
 <div align=center><h1>🌟 Status 🌟</h1>
