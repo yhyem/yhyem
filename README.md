@@ -11,8 +11,6 @@
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">  
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=black"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"> 
   <br>
   
