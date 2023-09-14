@@ -19,11 +19,6 @@
 	</a>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=FFFFFF">
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF">  
-  	<br/>   
-	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF">
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF">
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"> 
-	<br/>
 </div>
 
 <div align=center><h1>🌟 Status 🌟</h1></div>
