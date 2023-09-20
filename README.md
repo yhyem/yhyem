@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF">  
 </div>
 
-<div align=center><h1>🌟 Status 🌟</h1></div>
+<div align=center><h1>🌟 Stats 🌟</h1></div>
 
 <div align=center>
   <img src='https://github-readme-stats.vercel.app/api?username=yhyem&show_icons=true&theme=radical' style="width: 420px;"/>
