@@ -14,7 +14,7 @@
 
 </div>
 <div align=center>
-	<h1> Tools </h1></div>
+	<h1> Tool </h1></div>
 <div align=center>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
@@ -23,7 +23,7 @@
 </div>
 
 <div align=center>
-	<h1> Stats </h1></div>
+	<h1> Stat </h1></div>
 <div align=center>
   <img src='https://github-readme-stats.vercel.app/api?username=yhyem&show_icons=true&theme=radical' style="width: 420px;"/>
 </div>
