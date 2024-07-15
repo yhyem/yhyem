@@ -23,7 +23,7 @@
 </div>
 
 <div align=center>
-	<h1>Stat</h1></div>
+	<h1>Stats</h1></div>
 <div align=center>
   <img src='https://github-readme-stats.vercel.app/api?username=yhyem&show_icons=true&theme=radical' style="width: 420px;"/>
 </div>
