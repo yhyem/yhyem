@@ -21,7 +21,6 @@
 </div>
 
 <div align=center>
-	<h1>Stats</h1></div>
 	<br/>
 	<br/>
 	<a href="https://disquiet.io/product/%EB%A3%A8%EB%AF%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84">
