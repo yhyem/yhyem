@@ -19,11 +19,3 @@
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF"/>  
 </div>
-
-<div align=center>
-	<br/>
-	<br/>
-	<a href="https://disquiet.io/product/%EB%A3%A8%EB%AF%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84">
-		<img width="225" alt="Monosnap Disquiet Badge 2024-09-28 18-54-18" src="https://github.com/user-attachments/assets/e6930716-3adf-4f6c-a7a5-70fab3863313">
-	</a>
-</div>
