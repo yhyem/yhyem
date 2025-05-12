@@ -11,6 +11,7 @@
   	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   	<img src="https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
   	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+	<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
 </div>
 <div align=center>
 	<h1>Tool</h1>
